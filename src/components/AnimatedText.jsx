@@ -41,7 +41,7 @@ function AnimatedText() {
             transition={{ duration: 1, ease: "easeOut" }}
           >
             <h2 className="text-4xl font-semibold">I'm Shaurya</h2>
-            <p>Frontend Developer | React Enthusiast</p>
+            <p className="text-lg">Frontend Developer | React Enthusiast</p>
           </motion.div>
         ) : (
           <motion.div
@@ -53,7 +53,7 @@ function AnimatedText() {
             transition={{ duration: 1, ease: "easeOut" }}
           >
             <h2 className="text-4xl font-semibold">Welcome To My </h2>
-            <p>Portfolio Website</p>
+            <p className="text-lg">Portfolio Website</p>
           </motion.div>
         )}
       </AnimatePresence>

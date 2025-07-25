@@ -75,7 +75,7 @@ const Home = () => {
           background: "#7159d9",
         }}
         >
-        <div  className="text-white text-center  text-4xl font-bold z-10 relative flex flex-col items-center gap-10 top-60">
+        <div  className="text-white text-center  text-4xl font-bold z-10 relative flex flex-col items-center gap-7 top-60">
           <AnimatedText />
           
           <div className="  left-0 right-0   flex items-center justify-center  ">
@@ -115,7 +115,7 @@ const Home = () => {
             </a>
           </div>
         </div>
-        <div  className="mt-100"><AboutPreview /> </div>
+        <div  className="mt-120"><AboutPreview /> </div>
         <div id="projects"  >
 
         <ProjectText />
@@ -140,7 +140,7 @@ const Home = () => {
         </motion.div>
 
         
-      <div className="p-10"><SkillText name={"Skills"}/></div>
+      <div className="p-10" id="skills"><SkillText name={"Skills"}/></div>
       <div className="flex flex-wrap justify-center gap-20 md:gap-12 lg:gap-16 mt-10 "><Skill/></div>
       <div className="p-10"><SkillText name={"Languages"}/></div>
       <div className="flex flex-wrap justify-center gap-20 md:gap-12 lg:gap-16 mt-10 "><Languages/></div>

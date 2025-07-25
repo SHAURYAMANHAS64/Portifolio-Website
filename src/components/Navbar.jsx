@@ -29,6 +29,11 @@ function Navbar() {
               About
             </a>
           </li>
+          <li>
+            <a className="hover:text-black-300" href="#skills">
+              Skills
+            </a>
+          </li>
         </ul>
       </nav>
       
