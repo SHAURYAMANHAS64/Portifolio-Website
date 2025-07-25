@@ -5,7 +5,7 @@ function Footer(){
     return(
         <>
         <div className="flex flex-col items-center justify-center bg-[#000000c2] text-white py-4 w-full">
-        <p className="text-sm">© 2023 Shaurya Manhas. All rights reserved.</p>
+        <p className="text-sm">© 2025 Shaurya Manhas. All rights reserved.</p>
         <div className="flex items-center justify-center gap-4 p-4">
           <a href="https://github.com/SHAURYAMANHAS64" target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faGithub} size="2x" />
