@@ -16,3 +16,4 @@ Formspree / EmailJS (for contact form)
 
 🚀 Live Demo
 🔗 View Portfolio
+https://www.shauryamanhas.me/
