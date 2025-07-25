@@ -7,7 +7,7 @@ function Bouncypic(){
     width: 100,
     height: 100,
     borderRadius: "50%",
-    backgroundImage: "url('/public/shaurya.jpg')",
+    backgroundImage: "url('/shaurya.jpg')",
     backgroundRepeat: "no-repeat",
     backgroundPosition: "center",
     backgroundSize: "contain",

@@ -127,15 +127,15 @@ const Home = () => {
           <Card  link={"https://binary-brains-eta.vercel.app/"} 
                                                       name = "She-Complaint Portal" 
                                                       desc={"An initiative for women's safety, allowing secure and anonymous complaint submissions."}
-                                                      pic={"/public/final 2.jpg"} />
+                                                      pic={"/final 2.jpg"} />
           <Card  link={"https://spotify-clone-azure-nu.vercel.app/"} 
                                                       name="Spotify Clone" 
                                                       desc={" A responsive Spotify web clone using HTML, CSS, and JS. with a clean UI and music controls."}
-                                                      pic={"/public/spotify.jpg"} />
+                                                      pic={"/spotify.jpg"} />
           <Card  link={"https://netfilx-clone-seven.vercel.app/"} 
                                                       name = "Netflix Clone" 
                                                       desc={"A responsive Netflix web clone using HTML, CSS. Designed with a clean UI and movie controls."}
-                                                      pic={"/public/Netflix-Logo.jpg"} />
+                                                      pic={"/Netflix-Logo.jpg"} />
           
         </motion.div>
 

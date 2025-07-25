@@ -22,7 +22,7 @@ function Languages(){
         transition={{ duration: 0.8, ease: "easeOut" }}>
         <div class="relative drop-shadow-xl w-48 h-64 overflow-hidden rounded-xl bg-[#7159d9]">
           <div class="absolute flex flex-col items-center justify-center text-black z-[1]  rounded-xl inset-0.5 bg-[#000000c2]">
-             <img src="\public\C_Programming_Language.svg.png" alt="React Logo" className="w-16 h-16" />
+             <img src="\C_Programming_Language.svg.png" alt="React Logo" className="w-16 h-16" />
                 <p className="text-white mt-2">C</p>
 
           </div>
@@ -31,7 +31,7 @@ function Languages(){
 
         <div class="relative drop-shadow-xl w-48 h-64 overflow-hidden rounded-xl bg-[#7159d9]">
           <div class="absolute flex flex-col items-center justify-center text-white z-[1]  rounded-xl inset-0.5 bg-[#000000c2]">
-           <img src="\public\C++_Logo.png" alt="Vite Logo" className="w-16 h-16" />
+           <img src="\C++_Logo.png" alt="Vite Logo" className="w-16 h-16" />
                 <p className="text-white mt-2">C++</p>
 
 
@@ -40,7 +40,7 @@ function Languages(){
         </div>
         <div class="relative drop-shadow-xl w-48 h-64 overflow-hidden rounded-xl bg-[#7159d9]">
           <div class="absolute flex flex-col items-center justify-center text-white z-[1]  rounded-xl inset-0.5 bg-[#000000c2]">
-            <img src="\public\Python.svg.png" alt="Node.js Logo" className="w-20 h-16" />
+            <img src="\Python.svg.png" alt="Node.js Logo" className="w-20 h-16" />
                 <p className="text-white mt-2">Python</p>
           </div>
 

@@ -22,7 +22,7 @@ function Skill(){
         transition={{ duration: 0.8, ease: "easeOut" }}>
         <div class="relative drop-shadow-xl w-48 h-64 overflow-hidden rounded-xl bg-[#7159d9]">
           <div class="absolute flex flex-col items-center justify-center text-black z-[1]  rounded-xl inset-0.5 bg-[#000000c2]">
-            <img src="/src/assets/react.svg" alt="React Logo" className="w-16 h-16" />
+            <img src="/react.svg" alt="React Logo" className="w-16 h-16" />
             <p className="text-white mt-2">React.JS</p>
           </div>
           
@@ -30,7 +30,7 @@ function Skill(){
 
         <div class="relative drop-shadow-xl w-48 h-64 overflow-hidden rounded-xl bg-[#7159d9]">
           <div class="absolute flex flex-col items-center justify-center text-white z-[1]  rounded-xl inset-0.5 bg-[#000000c2]">
-            <img src="/public/vite.svg" alt="Vite Logo" className="w-16 h-16" />
+            <img src="/vite.svg" alt="Vite Logo" className="w-16 h-16" />
             <p className="text-white mt-2 ">Vite</p>
 
           </div>
@@ -38,7 +38,7 @@ function Skill(){
         </div>
         <div class="relative drop-shadow-xl w-48 h-64 overflow-hidden rounded-xl bg-[#7159d9]">
           <div class="absolute flex flex-col items-center justify-center text-white z-[1]  rounded-xl inset-0.5 bg-[#000000c2]">
-            <img src="/public/Node.js_logo.svg.png" alt="Node.js Logo" className="w-20 h-16" />
+            <img src="/Node.js_logo.svg.png" alt="Node.js Logo" className="w-20 h-16" />
                 <p className="text-white mt-2">Node.JS</p>
           </div>
 
