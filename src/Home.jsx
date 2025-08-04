@@ -85,7 +85,7 @@ const Home = () => {
          <div className=" flex  items-center justify-center space-x-6 bg-transparent z-50 ml-5 mr-5">
 
             <a
-              href="/ShauryaResume.pdf"
+              href="https://drive.google.com/file/d/1Q58QQ6SLWDKvTSVU78yh3hD89sRoqtTo/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="text-3xl hover:text-blue-700"
