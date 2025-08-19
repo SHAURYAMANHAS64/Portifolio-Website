@@ -14,7 +14,7 @@ function Footer(){
         
             <FontAwesomeIcon icon={faLinkedin} size="2x" />
           </a>
-          <a href="https://www.instagram.com/shaurya_manhas/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.instagram.com/__shauryya/" target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faInstagram} size="2x" />
           </a>
         </div>
