@@ -136,6 +136,10 @@ const Home = () => {
                                                       name = "Netflix Clone" 
                                                       desc={"A responsive Netflix web clone using HTML, CSS. Designed with a clean UI and movie controls."}
                                                       pic={"/Netflix-Logo.jpg"} />
+          <Card  link={"https://pulse-link-s3nf.vercel.app/"} 
+                                                      name = "Pulse Link" 
+                                                      desc={"Discover a wide range of workouts tailored to your fitness level and goals."}
+                                                      pic={"/Netflix-Logo.jpg"} />
           
         </motion.div>
 
