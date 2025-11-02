@@ -139,7 +139,7 @@ const Home = () => {
           <Card  link={"https://pulse-link-s3nf.vercel.app/"} 
                                                       name = "Pulse Link" 
                                                       desc={"Discover a wide range of workouts tailored to your fitness level and goals."}
-                                                      pic={"/Netflix-Logo.jpg"} />
+                                                      pic={"/Screenshot 2025-11-02 123510.png"} />
           
         </motion.div>
 
